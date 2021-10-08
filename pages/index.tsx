@@ -13,7 +13,7 @@ const Home: NextPage = () => {
 
       <main className={styles.main}>
         <h1>Skyrim</h1>
-        <Link href="/skyrim/know-your-enemy">Know Your Enemy Matrix</Link>
+        <Link href="skyrim/know-your-enemy">Know Your Enemy Matrix</Link>
       </main>
     </div>
   )
